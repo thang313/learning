@@ -1,0 +1,20 @@
+button{
+    background-color: #00ff26;
+    height: 50px;
+    width: 300px;
+
+}
+input{
+    height: 50px;
+    width: 350px;
+}
+:right .btn-search{
+    width: 50px;
+}
+.header{
+    width: auto 100vh;
+    height: 50px;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-between;
+}
